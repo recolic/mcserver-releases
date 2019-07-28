@@ -20,3 +20,14 @@ Update Procedure:
 
 4. You're all set.
 
+### Version 2
+
+> Server Upgrade Time: Jul 28, 2019 11:59 UTC
+
+Update Procedure:
+
+1. Remove `.minecraft/mods/Ruins-1.7.10.jar`.
+
+2. You're all set.
+
+
