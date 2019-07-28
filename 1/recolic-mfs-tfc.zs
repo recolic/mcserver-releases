@@ -1,6 +1,8 @@
 // Recolic wrote this script for TFCPunk to add MinecraftFlightSimulator into TFCPunk.
 // It works for TFCPunk 20190728.
 // Warning: this zscript is half-done. It just implements some MANDATORY elements of MFS.
+// CopyRight: Recolic Keghart <root@recolic.net>
+
 print("Recolic debug: inserting Minecraft Flight Simulator recipe for TFC.");
 
 recipes.addShaped(<mfs:MC172>, 
