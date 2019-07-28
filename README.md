@@ -12,9 +12,11 @@ Server Address: extern.mc.recolic.org:50998
 
 Update Procedure:
 
-1. Download [recolic-mfs-tfc.zs] into `.minecraft/scripts/recolic-mfs-tfc.zs`.
+1. Download [recolic-mfs-tfc.zs](https://git.recolic.net/root/mcserver-releases/blob/master/1/recolic-mfs-tfc.zs) into `.minecraft/scripts/recolic-mfs-tfc.zs`.
 
-2. Download [Minecraft+Flight+Simulator-1.7.10-7.1.3.jar] into `.minecraft/mods/Minecraft+Flight+Simulator-1.7.10-7.1.3.jar`
+2. Download [Minecraft+Flight+Simulator-1.7.10-7.1.3.jar](https://git.recolic.net/root/mcserver-releases/blob/master/1/Minecraft+Flight+Simulator-1.7.10-7.1.3.jar) into `.minecraft/mods/Minecraft+Flight+Simulator-1.7.10-7.1.3.jar`
 
-3. You're all set.
+3. Restart game.
+
+4. You're all set.
 
