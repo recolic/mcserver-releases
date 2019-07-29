@@ -42,4 +42,14 @@ Update Procedure:
 
 3. You're all set.
 
+### Version 4: better MFS
+
+> Server Upgrade Time: Jul 28, 2019 16:29 UTC
+
+Update Procedure:
+
+1. Download [recolic-mfs-tfc.zs](https://git.recolic.net/root/mcserver-releases/blob/master/4/recolic-mfs-tfc.zs) into `.minecraft/scripts/recolic-mfs-tfc.zs`.
+
+2. You're all set.
+
 
