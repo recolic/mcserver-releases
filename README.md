@@ -2,6 +2,8 @@
 
 # DEPRECATED! Please refer to https://recolic.net/blog/2020/10/recolics-minecraft-server for latest version!
 
+<del>
+
 ### Version 0
 
 Client (Windows/Linux/MacOS): https://recolic.net/go/tfcpunk
@@ -54,4 +56,4 @@ Update Procedure:
 
 2. You're all set.
 
-
+</del>
