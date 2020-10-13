@@ -1,5 +1,7 @@
 # recolic's mc server
 
+# DEPRECATED! Please refer to https://recolic.net/blog/2020/10/recolics-minecraft-server for latest version!
+
 ### Version 0
 
 Client (Windows/Linux/MacOS): https://recolic.net/go/tfcpunk
